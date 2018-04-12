@@ -10,5 +10,4 @@ Creating a new branch is quick & simple.
 
 
 冲突测试
-
 Creating a new branch is quick AND simple.
